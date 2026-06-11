@@ -1,0 +1,17 @@
+# Compiled binaries
+*.com
+*.exe
+*.bin
+*.out
+
+# Assembly listings and debug symbols
+*.lst
+*.map
+*.obj
+*.o
+
+# OS Files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
