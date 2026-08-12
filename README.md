@@ -119,6 +119,7 @@ This project was developed as part of the **Computer Organization & Assembly Lan
 - **Semester:** Fall 2024
 - **Section:** BSE-3B
 - **Developers:**
+  - **Team Yeagerists++** 
   - **M. Anas** (Roll No: `24L-3004`)
   - **Abdul Ahad** (Roll No: `24L-3029`)
 
