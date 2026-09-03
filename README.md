@@ -129,6 +129,4 @@ This project was developed as part of the **Computer Organization & Assembly Lan
 
 **Built with 💻 and ⚙️ in 8086 Assembly**
 
-*For Educational Purposes Only*
-
 </div>
